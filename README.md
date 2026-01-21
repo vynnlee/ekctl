@@ -18,6 +18,13 @@ A native macOS command-line tool for managing Calendar events and Reminders usin
 
 ## Installation
 
+### Homebrew (Recommended)
+
+```bash
+brew tap schappim/ekctl
+brew install ekctl
+```
+
 ### Build from Source
 
 ```bash
